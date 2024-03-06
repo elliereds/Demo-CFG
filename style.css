@@ -16,7 +16,7 @@ body {
   display: table-cell;
   vertical-align: middle;
   background-image: url("images/bg-intro-desktop.png");
-  background-color: hsl(146, 87%, 72%);
+  background-color: hsl(266, 87%, 72%);
 }
 
 .attribution {
